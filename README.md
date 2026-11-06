@@ -1,6 +1,7 @@
 # Stocks-AI
 # Stock Market Prediction Using Machine Learning
 
+
 A machine learning project that analyzes historical S&P 500 stock data
 and predicts **future stock returns over a 3-day horizon**. The project
 explores how historical price and volume information, together with
@@ -108,7 +109,7 @@ Random Forest in the final evaluation.
 -   Scikit-learn
 -   XGBoost
 -   CatBoost
--   Jupyter Notebook / Google Colab
+-   Google Colab
 
 ## Future Work
 
